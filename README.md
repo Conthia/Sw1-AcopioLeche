@@ -15,4 +15,5 @@ El proyecto que estamos realizando se desarrolla en unidades a lo largo del seme
 2. **Los roles rotan cada sprint/unidad**, lo que proporciona flexibilidad, pero también conlleva el riesgo de que no haya continuidad: la persona encargada de las decisiones técnicas en una unidad puede no estar disponible para atender preguntas sobre ese aspecto si ya ha pasado a otro rol.
 
 ---
-**Integrantes que participaron:** Alicia Vizcarra Ramos, Dayron Apaza Rodríguez, Jorge Luis Riveros Larico, Deysi Yaneth Mamani Jinez
+**Integrantes que participaron:** 
+Alicia Vizcarra Ramos, Dayron Apaza Rodríguez, Jorge Luis Riveros Larico, Deysi Yaneth Mamani Jinez
