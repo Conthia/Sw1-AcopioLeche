@@ -6,14 +6,13 @@
 
 ## Justificación
 
-Optamos por un modelo incremental debido a que nuestro proyecto se desarrolla en unidades a lo largo del semestre, cada una con sus propios entregables y aprendizajes. Esto se ajusta de manera natural a entregas por incrementos funcionales en lugar de una única entrega final en estilo cascada. En AcopioLeche, cada avance añade una capacidad específica: en primer lugar, el registro básico del acopio; después, la gestión offline-first con sincronización, y luego el cálculo de los pagos de acuerdo con la calidad. Además, como equipo todavía estamos aprendiendo Kotlin Multiplatform y Compose Multiplatform sobre la marcha; requerimos flexibilidad para modificar el alcance cada semana, algo que el modelo cascada no permite adecuadamente porque exige tener los requisitos definidos desde el principio. Adoptamos de Scrum las prácticas de reuniones cortas en equipo y entregables por sesión, sin aplicar el marco completo (no utilizamos un Product Owner externo ni la planificación formal del Sprint), porque ni el contexto académico ni la magnitud del equipo (cuatro personas) lo exigen completamente.
+Optamos por un modelo incremental porque nuestro proyecto se desarrolla en unidades a lo largo del semestre, cada una con sus propios entregables y aprendizajes — algo que además calza con la forma de trabajo que ya nos plantea el curso, con un sprint por unidad. Preferimos esto sobre cascada porque aún estamos aprendiendo Kotlin Multiplatform y Compose Multiplatform sobre la marcha, y necesitamos poder ajustar el alcance conforme avanzamos, en vez de cerrar todos los requisitos desde el día uno. De Scrum tomamos reuniones breves de equipo y entregables por sesión, sin implementar el marco completo, ya que el tamaño del equipo y el contexto académico no lo requieren en su totalidad.
 
 ## Riesgos o limitaciones previstas
 
-1. **Falta de un rol formal de priorización (Product Owner):** Si no hay una persona externa que dé prioridad al backlog, el equipo podría posponer lo que se evalúa en cada unidad y concentrarse primero en funciones secundarias (como reportes o notificaciones) antes de la entidad principal del CRUD (Acopio).
+1. **No tenemos un documento de requisitos cerrado desde el inicio**, así que si en las próximas unidades el docente nos da más detalles o cambia algo, es probable que tengamos que ajustar o rehacer parte de lo que ya avanzamos.
 
-2. **Los roles rotan cada semana**, Lo que proporciona flexibilidad, pero a la vez conlleva el riesgo de perder continuidad: la persona que está al frente de "Lógica y datos" una semana puede no estar disponible para aclarar dudas sobre esa sección cuando ya se haya cambiado a otro rol.
+2. **Los roles rotan cada sprint/unidad**, lo que da flexibilidad pero también riesgo de pérdida de continuidad: quien lleva Decisiones Técnicas en una unidad puede no estar disponible para resolver dudas sobre esa parte cuando ya rotó a otro rol.
 
-3. **Sin un documento único de requisitos cerrado desde el inicio**, así que si el docente nos da más detalles en las próximas semanas (por ejemplo, sobre el tema de autenticación JWT en la Unidad III), es posible que tengamos que retocar o rehacer parte de lo que ya avanzamos en los primeros incrementos.
 ---
 **Integrantes que participaron:** Alicia Vizcarra Ramos, Dayron Apaza Rodríguez, Jorge Luis Riveros Larico, Deysi Yaneth Mamani Jinez
